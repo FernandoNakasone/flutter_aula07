@@ -1,8 +1,5 @@
- 
-import 'package:flutter/material.dart';
- 
-void main() => runApp(VotacaoApp());
- 
+ import 'package:flutter/material.dart';
+
 class VotacaoApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
